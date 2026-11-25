@@ -9,8 +9,9 @@ import os
 
 SENTENCE = (
     "My grandmother's soto ayam at a Jakarta street stall \u2014 "
-    "turmeric broth, shredded chicken, lime squeezed over the top "
-    "\u2014 still tastes like the whole city stopping to feed me."
+    "turmeric broth, shredded chicken, lime over the top, "
+    "steam fogging my glasses \u2014 still tastes like Jakarta "
+    "itself sitting down to feed me."
 )
 
 
